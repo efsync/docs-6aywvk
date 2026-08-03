@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-qn521y.batmantoto9zxc.cfd/sitemap.xml
